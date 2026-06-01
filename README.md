@@ -1,6 +1,6 @@
 # Task-3-Waliyullahi-Akorede-Husain
 Repository for Task 3
-# Decodelabs Internship Diary: Project 3 – Database Engineering & Advanced SQL Analytics
+# Decodelabs Internship Diary: Project 3 – Decoding the Database Engine
 
 Data analysis isn't just about reading data, it's about knowing how to safely migrate, transform, and secure it. Moving from the visual grids of Excel to writing pure command-line SQL script marked a major technical shift in my Decodelabs internship.
 
